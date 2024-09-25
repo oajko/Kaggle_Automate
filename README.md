@@ -1,2 +1,3 @@
-# Kaggle_auto
-Collection of auto Kernels for common Kaggle Use cases
+# Kaggle_Automate
+
+This page is used to ease workflow for tabular datasets, specifically for Kaggle competitions.
